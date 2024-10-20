@@ -1,7 +1,14 @@
 div {
   margin: 15px 10px;
 }
-div a {
+a {
   font-size: 20px;
   text-decoration: none;
+  color: black;
+}
+a:hover {
+  color: black;
+}
+a:visited {
+  color: black;
 }
